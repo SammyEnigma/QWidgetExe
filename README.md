@@ -17,7 +17,7 @@
  
 ### （二）、效果图
 名称：bin_quc.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_quc/000.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_quc/000.gif)
 
 ## 二、输入法
 ### （一）、输入法V2018
@@ -66,8 +66,8 @@
 
 ### （三）、效果图
 名称：bin_input.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_input/input2018.gif)
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_input/input2019.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_input/input2018.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_input/input2019.gif)
 
 ## 三、气体安全管理系统
 ### （一）、功能特点
@@ -102,9 +102,9 @@
 
 ### （二）、效果图
 名称：bin_sams.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_sams/0.jpg)
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_sams/1.jpg)
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_sams/2.jpg)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_sams/0.jpg)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_sams/1.jpg)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_sams/2.jpg)
 
 ## 四、可视化大屏电子看板系统
 ### （一）、功能特点
@@ -133,7 +133,7 @@
 
 ### （二）、效果图
 名称：bin_bigscreen.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_bigscreen/0.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_bigscreen/0.gif)
 
 ## 五、视频监控系统
 ### （一）、功能特点
@@ -167,7 +167,7 @@
 
 ### （二）、效果图
 名称：bin_video_system.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_system/0.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_system/0.gif)
 
 ## 六、楼宇对讲管理平台
 ### （一）、功能特点
@@ -194,12 +194,12 @@
 
 ### （二）、效果图
 名称：bin_TB.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/0.png)
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/1.png)
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/2.png)
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/3.png)
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/4.png)
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/5.png)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/0.png)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/1.png)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/2.png)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/3.png)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/4.png)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/5.png)
 
 ## 七、视频监控内核
 ### （一）、vlc内核
@@ -242,8 +242,8 @@
 
 ### （三）、效果图
 名称：bin_video_vlc.zip bin_video_ffmpeg.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_ffmpeg/6.jpg)
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_vlc/2.jpg)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_ffmpeg/6.jpg)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_vlc/2.jpg)
 
 ## 八、皮肤生成器+UIDemo
 ### （一）、功能特点
@@ -268,7 +268,7 @@
 
 ### （三）、效果图
 名称：bin_uidemo.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_uidemo/qui.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_uidemo/qui.gif)
 
 ## 九、Onvif搜索和云台控制工具
 ### （一）、功能特点
@@ -290,7 +290,7 @@
 
 ### （二）、效果图
 名称：bin_video_onvif.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_onvif/video_onvif.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_onvif/video_onvif.gif)
 
 ## 十、控件属性设计器
 ### （一）、功能特点
@@ -310,7 +310,7 @@
 
 ### （二）、效果图
 名称：bin_property.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_property/0.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_property/0.gif)
 
 ## 十一、自定义曲线图柱状图
 ### （一）、功能特点
@@ -343,7 +343,7 @@
 
 ### （二）、效果图
 名称：bin_customplot.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_customplot/customplot.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_customplot/customplot.gif)
 
 ## 十二、 数据导出到Excel及Pdf和打印数据
 ### （一）、功能特点
@@ -366,7 +366,7 @@
 
 ### （二）、效果图
 名称：bin_dataout.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_dataout/dataout.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_dataout/dataout.gif)
 
 ## 十三、 数据库集成应用通用功能
 ### （一）、功能特点
