@@ -242,8 +242,8 @@
 
 ### （三）、效果图
 名称：bin_video_vlc.zip bin_video_ffmpeg.zip
-![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_ffmpeg/6.jpg)
-![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_vlc/2.jpg)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_ffmpeg/video_ffmpeg1.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_vlc/video_vlc.gif)
 
 ## 八、皮肤生成器+UIDemo
 ### （一）、功能特点
