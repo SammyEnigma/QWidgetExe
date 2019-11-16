@@ -102,9 +102,7 @@
 
 ### （二）、效果图
 名称：bin_sams.zip
-![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_sams/0.jpg)
-![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_sams/1.jpg)
-![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_sams/2.jpg)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_sams/sams.gif)
 
 ## 四、可视化大屏电子看板系统
 ### （一）、功能特点
