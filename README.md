@@ -401,4 +401,4 @@
 
 ### （二）、效果图
 名称：bin_video_image.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_image/video_image.gif)
+![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_image/video_image1.gif)
