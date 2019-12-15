@@ -308,7 +308,7 @@
 
 ### （二）、效果图
 名称：bin_property.zip
-![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_property/0.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_property/完整视频.gif)
 
 ## 十一、自定义曲线图柱状图
 ### （一）、功能特点
