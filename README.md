@@ -1,4 +1,4 @@
-﻿由于github加载很慢，效果图比较多，如有需要查看效果图请移步：[https://gitee.com/feiyangqingyun/QWidgetExe](https://gitee.com/feiyangqingyun/QWidgetExe)
+﻿**由于可执行文件比较大，如有需要查看可执行文件请到网盘下载（下面都给出了网盘地址）。**
 
 ## 一、自定义控件大全
 ### （一）、控件介绍
@@ -18,6 +18,7 @@
  14. 目前已经有qml版本，后期会考虑出pyqt版本，如果用户需求量很大的话。
  
 ### （二）、效果图
+网盘：[https://pan.baidu.com/s/1A5Gd77kExm8Co5ckT51vvQ](https://pan.baidu.com/s/1A5Gd77kExm8Co5ckT51vvQ) 提取码：877p
 名称：bin_quc.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_quc/000.gif)
 
@@ -67,6 +68,7 @@
 20. 代码结构极为清晰，注释详细，非常容易阅读和理解，同时也可以自行修改拓展自定义的需求。
 
 ### （三）、效果图
+网盘：[https://pan.baidu.com/s/1vIyEdB4QGo5OvxLYj7kq5g](https://pan.baidu.com/s/1vIyEdB4QGo5OvxLYj7kq5g)  提取码：sysn
 名称：bin_input.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_input/input2018.gif)
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_input/input2019.gif)
@@ -103,6 +105,7 @@
 28. 支持所有windows操作系统+linux操作系统和其他操作系统。
 
 ### （二）、效果图
+网盘：[https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ](https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ)  提取码：1jkp
 名称：bin_sams.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_sams/sams.gif)
 
@@ -132,6 +135,7 @@
 22. 提供系统设置窗口进行整体的配置参数设置。
 
 ### （二）、效果图
+网盘：[https://pan.baidu.com/s/1o97IGvZgTgDhlkuXQa4B0w](https://pan.baidu.com/s/1o97IGvZgTgDhlkuXQa4B0w) 提取码：r2bv
 名称：bin_bigscreen.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_bigscreen/0.gif)
 
@@ -166,6 +170,7 @@
 27. 高度可定制化，用户可以很方便的在此基础上衍生自己的功能，支持linux系统。
 
 ### （二）、效果图
+网盘：[https://pan.baidu.com/s/1bbL2ZughZAgfIGrexyN-9g](https://pan.baidu.com/s/1bbL2ZughZAgfIGrexyN-9g) 提取码：zkeh
 名称：bin_video_system.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_system/0.gif)
 
@@ -193,6 +198,7 @@
 20. 纯Qt编写，支持任意Qt版本+任意编译器+任意系统，可运行在windws XP、win7、win8、win10、linux、mac OS、嵌入式linux等系统。
 
 ### （二）、效果图
+网盘：[https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ](https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ)  提取码：1jkp
 名称：bin_TB.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/0.png)
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_TB/1.png)
@@ -241,9 +247,10 @@
 17. 支持qsv dxva d3d 硬解码。
 
 ### （三）、效果图
+网盘：[https://pan.baidu.com/s/1bbL2ZughZAgfIGrexyN-9g](https://pan.baidu.com/s/1bbL2ZughZAgfIGrexyN-9g) 提取码：zkeh
 名称：bin_video_vlc.zip bin_video_ffmpeg.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_ffmpeg/video_ffmpeg1.gif)
-![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_vlc/video_vlc.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_vlc/video_vlc1.gif)
 
 ## 八、皮肤生成器+UIDemo
 ### （一）、功能特点
@@ -267,6 +274,7 @@
 7. QChar图形字体的对照表在 图形字体对照表.png。
 
 ### （三）、效果图
+网盘：[https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ](https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ)  提取码：1jkp
 名称：bin_uidemo.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_uidemo/qui.gif)
 
@@ -289,6 +297,7 @@
 15. 支持所有Onvif设备，代码工整，接口友好，直接引入pri即可使用。
 
 ### （二）、效果图
+网盘：[https://pan.baidu.com/s/1bbL2ZughZAgfIGrexyN-9g](https://pan.baidu.com/s/1bbL2ZughZAgfIGrexyN-9g) 提取码：zkeh
 名称：bin_video_onvif.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_onvif/video_onvif.gif)
 
@@ -309,6 +318,7 @@
 13. 纯Qt编写，支持任意Qt版本+任意编译器+任意系统。
 
 ### （二）、效果图
+网盘：[https://pan.baidu.com/s/1A5Gd77kExm8Co5ckT51vvQ](https://pan.baidu.com/s/1A5Gd77kExm8Co5ckT51vvQ) 提取码：877p
 名称：bin_property.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_property/完整视频.gif)
 
@@ -342,6 +352,7 @@
 26. 支持Qt4-Qt5任意Qt版本,支持任意编译器+任意操作系统。
 
 ### （二）、效果图
+网盘：[https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ](https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ)  提取码：1jkp
 名称：bin_customplot.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_customplot/customplot.gif)
 
@@ -365,6 +376,7 @@
 16. 纯Qt编写，支持任意Qt版本+任意编译器+任意系统。
 
 ### （二）、效果图
+网盘：[https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ](https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ)  提取码：1jkp
 名称：bin_dataout.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_dataout/dataout.gif)
 
@@ -384,6 +396,7 @@
 12. 封装成一个pri组件，方便调用，支持Qt4-Qt5任意版本，支持任意编译器和操作系统，尤其是嵌入式linux。
 
 ### （二）、效果图
+网盘：[https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ](https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ)  提取码：1jkp
 名称：bin_dbtool.zip
 
 ## 十四、 图片及视频TCP/UDP网络传输
@@ -402,5 +415,6 @@
 12. 采用自定义的xml协议，可以自由拓展其他属性字段比如带上图片内容等。
 
 ### （二）、效果图
+网盘：[https://pan.baidu.com/s/1bbL2ZughZAgfIGrexyN-9g](https://pan.baidu.com/s/1bbL2ZughZAgfIGrexyN-9g) 提取码：zkeh
 名称：bin_video_image.zip
-![avatar](https://gitee.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_image/video_image1.gif)
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_video_image/video_image1.gif)
