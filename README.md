@@ -455,3 +455,20 @@
 名称：bin_map.zip
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_map/map_echart.gif)
 ![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_map/map_baidu.gif)
+
+## 十六、 网络请求客户端/服务器
+### （一）、功能特点
+1. 支持多个客户端连接并发同时处理，
+2. 可设置http请求是长连接还是短连接，默认长连接。
+3. 支持多种回复数据格式，其中包括网页内容、json数据等。
+4. 服务端示例中同时包含读取文件回复、读取数据库回复。
+5. 支持8种配色方案（暗黑、灰黑、深绿、浅黄、深蓝、深黑、暗蓝、默认）。
+6. 客户端可指定请求地址，服务端可指定网卡和端口进行监听。
+7. 所有请求和连接都有计数，所有在线请求的IP和端口都显示在表格中。
+8. 可自由拓展增加权限校验等，作为一个http请求服务器。
+9. 代码框架整洁，注释完整，支持任意Qt版本、任意编译器、任意操作系统。
+
+### （二）、效果图
+网盘：[https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ](https://pan.baidu.com/s/1uQsDQO5E5crUBN2J-nPeLQ)  提取码：1jkp
+名称：bin_httpserver.zip
+![avatar](https://github.com/feiyangqingyun/QWidgetExe/raw/master/snap_httpserver/httpserver.gif)
